@@ -1,12 +1,9 @@
 ### 👋 Hi, I’m @colin-valentini and I...
 
-👾 Am currently a senior software engineer at a technology company, but was previously a software engineer at Goldman Sachs
-
-🎓 Have a bachelor's degree in Applied Mathematics from Columbia University
-
-🪖 Was a United States Marine for four years, and deployed to Afghanistan in 2012 with 1st Battalion/7th Marines, Suicide Charley company
-
-🍩 Can be contacted at valentini.colin@gmail.com
+- Am currently a senior software engineer at a technology company, but was previously a software engineer at Goldman Sachs 👾
+- Have a bachelor's degree in Applied Mathematics from Columbia University 🎓
+- Deployed to Afghanistan in 2012 with 1st Battalion/7th Marines, Suicide Charley company 🪖
+- Can be contacted at valentini.colin@gmail.com 🍩
 
 Checkout my [website](www.colinvalentini.com)
 
