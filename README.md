@@ -1,7 +1,7 @@
-### 👋 Hi, I’m @colin-valentini and I...
+### 👋 Hi, I’m @colin-valentini, and I...
 
-- Am currently a senior software engineer at a technology company, but was previously a software engineer at Goldman Sachs 👾
-- Have a bachelor's degree in Applied Mathematics from Columbia University 🎓
+- Am a senior software engineer at [Tanium](https://www.tanium.com), with prior engineer work at [Goldman Sachs](https://www.goldmansachs.com) 👾
+- Hold a bachelor's degree in Applied Mathematics from Columbia University 🎓
 - Deployed to Afghanistan in 2012 with 1st Battalion/7th Marines, Suicide Charley company 🪖
 - Can be contacted at valentini.colin@gmail.com 🍩
 
