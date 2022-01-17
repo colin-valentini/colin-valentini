@@ -5,7 +5,7 @@
 - Deployed to Afghanistan in 2012 with 1st Battalion/7th Marines, Suicide Charley company 🪖
 - Can be contacted at valentini.colin@gmail.com 🍩
 
-Checkout my [website](www.colinvalentini.com)
+Checkout my [website](https://www.colinvalentini.com)
 
 <!---
 colin-valentini/colin-valentini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
