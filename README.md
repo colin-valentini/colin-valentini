@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/colin-valentini">Colin Valentini</a></h1>
 
-- Technical Program Manager at [Google](https://about.google/), with prior experience as a software engineer at [Tanium](https://www.tanium.com) and [Goldman Sachs](https://www.goldmansachs.com)
+- Software Engineer at [Google](https://about.google/), with prior experience at [Tanium](https://www.tanium.com) and [Goldman Sachs](https://www.goldmansachs.com)
 - Bachelor's degree in Applied Mathematics from Columbia University
 - Served in the [United States Marine Corps](https://www.marines.mil/) for four years, and deployed to Afghanistan in 2012 with 1st Battalion/7th Marines, Suicide Charley company
 - Passion for backend and data platform engineering
